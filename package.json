@@ -1,13 +1,14 @@
 {
   "name": "@digital-first/react-org-chart",
-  "version": "0.1.2",
+  "version": "0.1.8",
   "description": "Simple, high-performance react component for d3 org chart",
   "main": "dist/index.js",
   "directories": {
     "example": "src/examples"
   },
   "files": [
-    "dist/index.js"
+    "dist/index.js",
+    "src","node_modules", "dist"
   ],
   "repository": {
     "type": "git",
